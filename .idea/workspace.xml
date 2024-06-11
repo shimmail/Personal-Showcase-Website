@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8d4114de-1921-42df-9c60-1a1b1da2bfd0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/equestria/criticalskills/criticalskills/utils/AliOSSUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/equestria/criticalskills/criticalskills/utils/AliOSSUtils.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;shimmail&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="a29c30b5-4b63-457f-85b6-7711341f0946" />
+        <option name="url" value="https://github.com/shimmail/Personal-Showcase-Website.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2hKJMvz40aSUlcP2kKtAnHt6oWr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.LearningDemo [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.LearningDemo [package].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.CriticalSkillsApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;shimeng&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/desktop/project/project/criticalskills-main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\application\\IntelliJ IDEA 2023.3.2\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CriticalSkillsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="LearningDemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.equestria.criticalskills.criticalskills.CriticalSkillsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d4114de-1921-42df-9c60-1a1b1da2bfd0" name="Changes" comment="" />
+      <created>1717336790983</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717336790983</updated>
+      <workItem from="1717336792020" duration="1695000" />
+      <workItem from="1717390290175" duration="2364000" />
+      <workItem from="1717394102028" duration="796000" />
+      <workItem from="1717395587235" duration="18000" />
+      <workItem from="1717395659260" duration="3767000" />
+      <workItem from="1717400884046" duration="1818000" />
+      <workItem from="1717419407671" duration="1398000" />
+      <workItem from="1717460577110" duration="1100000" />
+      <workItem from="1717462141764" duration="231000" />
+      <workItem from="1717462798164" duration="3053000" />
+      <workItem from="1717488419872" duration="2886000" />
+      <workItem from="1717674500321" duration="944000" />
+      <workItem from="1717676394319" duration="3130000" />
+      <workItem from="1717679554536" duration="5905000" />
+      <workItem from="1717762718845" duration="3570000" />
+      <workItem from="1717770885335" duration="851000" />
+      <workItem from="1718013774760" duration="4261000" />
+      <workItem from="1718018109499" duration="350000" />
+      <workItem from="1718028233974" duration="2585000" />
+      <workItem from="1718030852975" duration="3159000" />
+      <workItem from="1718034757081" duration="1140000" />
+      <workItem from="1718079491870" duration="488000" />
+      <workItem from="1718081572196" duration="28399000" />
+      <workItem from="1718118064537" duration="63000" />
+      <workItem from="1718118534356" duration="79000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TerminalProjectNonSharedOptionsProvider">
+    <option name="startingDirectory" value="D:\desktop\project\project\criticalskills-main\front" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
