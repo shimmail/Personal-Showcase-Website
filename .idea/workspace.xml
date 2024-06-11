@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d4114de-1921-42df-9c60-1a1b1da2bfd0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/equestria/criticalskills/criticalskills/utils/AliOSSUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/equestria/criticalskills/criticalskills/utils/AliOSSUtils.java" afterDir="false" />
-    </list>
+    <list default="true" id="8d4114de-1921-42df-9c60-1a1b1da2bfd0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,7 +113,7 @@
       <workItem from="1718079491870" duration="488000" />
       <workItem from="1718081572196" duration="28399000" />
       <workItem from="1718118064537" duration="63000" />
-      <workItem from="1718118534356" duration="79000" />
+      <workItem from="1718118534356" duration="593000" />
     </task>
     <servers />
   </component>
